@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-05-13",
   "source": "Naver Finance ETF item list, matched by normalized ETF name",
-  "count": 536,
+  "count": 575,
   "tickers": [
     {
       "name": "KODEX 200",
@@ -3218,6 +3218,242 @@
       "ticker": "457480",
       "displayTicker": "457480",
       "naverName": "ACE 테슬라밸류체인액티브"
+    },
+    {
+      "ticker": "473480",
+      "displayTicker": "473480",
+      "name": "WON 대한민국국고채",
+      "source": "manual"
+    },
+    {
+      "ticker": "302190",
+      "displayTicker": "302190",
+      "name": "KODEX 장기종합채권(AA-이상)",
+      "source": "manual"
+    },
+    {
+      "ticker": "451510",
+      "displayTicker": "451510",
+      "name": "마이다스 중소형액티브",
+      "source": "manual"
+    },
+    {
+      "ticker": "451520",
+      "displayTicker": "451520",
+      "name": "마이다스 일본테크액티브",
+      "source": "manual"
+    },
+    {
+      "ticker": "479440",
+      "displayTicker": "479440",
+      "name": "TIMEFOLIO 차이나AI테크액티브",
+      "source": "manual"
+    },
+    {
+      "ticker": "446150",
+      "displayTicker": "446150",
+      "name": "ACE 미국S&P500채권혼합액티브",
+      "source": "manual"
+    },
+    {
+      "ticker": "449270",
+      "displayTicker": "449270",
+      "name": "TIGER 미국나스닥100채권혼합Fn",
+      "source": "manual"
+    },
+    {
+      "ticker": "453670",
+      "displayTicker": "453670",
+      "name": "SOL 미국TOP5채권혼합40 Solactive",
+      "source": "manual"
+    },
+    {
+      "ticker": "157450",
+      "displayTicker": "157450",
+      "name": "RISE 채권혼합",
+      "source": "manual"
+    },
+    {
+      "ticker": "465610",
+      "displayTicker": "465610",
+      "name": "TIMEFOLIO 미국배당다우존스액티브",
+      "source": "manual"
+    },
+    {
+      "ticker": "436350",
+      "displayTicker": "436350",
+      "name": "TIMEFOLIO Korea플러스배당액티브",
+      "source": "manual"
+    },
+    {
+      "ticker": "285000",
+      "displayTicker": "285000",
+      "name": "KIWOOM 고배당",
+      "source": "manual"
+    },
+    {
+      "ticker": "493030",
+      "displayTicker": "493030",
+      "name": "TIMEFOLIO 코리아밸류업액티브",
+      "source": "manual"
+    },
+    {
+      "ticker": "412570",
+      "displayTicker": "412570",
+      "name": "TIMEFOLIO K신재생에너지액티브",
+      "source": "manual"
+    },
+    {
+      "ticker": "436340",
+      "displayTicker": "436340",
+      "name": "TIMEFOLIO K바이오액티브",
+      "source": "manual"
+    },
+    {
+      "ticker": "412610",
+      "displayTicker": "412610",
+      "name": "TIMEFOLIO K컬처액티브",
+      "source": "manual"
+    },
+    {
+      "ticker": "451310",
+      "displayTicker": "451310",
+      "name": "TIMEFOLIO 글로벌소비트렌드액티브",
+      "source": "manual"
+    },
+    {
+      "ticker": "451300",
+      "displayTicker": "451300",
+      "name": "TIMEFOLIO 글로벌AI인공지능액티브",
+      "source": "manual"
+    },
+    {
+      "ticker": "480020",
+      "displayTicker": "480020",
+      "name": "ITF K-AI반도체코어테크",
+      "source": "manual"
+    },
+    {
+      "ticker": "469070",
+      "displayTicker": "469070",
+      "name": "KODEX AI반도체",
+      "source": "manual"
+    },
+    {
+      "ticker": "396500",
+      "displayTicker": "396500",
+      "name": "TIGER Fn반도체TOP10",
+      "source": "manual"
+    },
+    {
+      "ticker": "460080",
+      "displayTicker": "460080",
+      "name": "ACE 글로벌인컴TOP10 SOLACTIVE",
+      "source": "manual"
+    },
+    {
+      "ticker": "479430",
+      "displayTicker": "479430",
+      "name": "TIMEFOLIO 글로벌우주테크&방산액티브",
+      "source": "manual"
+    },
+    {
+      "ticker": "289040",
+      "displayTicker": "289040",
+      "name": "TIGER MSCI KOREA ESG유니버셜",
+      "source": "manual"
+    },
+    {
+      "ticker": "237440",
+      "displayTicker": "237440",
+      "name": "KODEX 배당성장채권혼합",
+      "source": "manual"
+    },
+    {
+      "ticker": "211900",
+      "displayTicker": "211900",
+      "name": "KODEX 배당성장",
+      "source": "manual"
+    },
+    {
+      "ticker": "289260",
+      "displayTicker": "289260",
+      "name": "KODEX MSCI KOREA ESG유니버셜",
+      "source": "manual"
+    },
+    {
+      "ticker": "304660",
+      "displayTicker": "304660",
+      "name": "HANARO 고배당",
+      "source": "manual"
+    },
+    {
+      "ticker": "494550",
+      "displayTicker": "494550",
+      "name": "TIMEFOLIO 미국나스닥100채권혼합50액티브",
+      "source": "manual"
+    },
+    {
+      "ticker": "138540",
+      "displayTicker": "138540",
+      "name": "TIGER LG그룹+펀더멘털",
+      "source": "manual"
+    },
+    {
+      "ticker": "138530",
+      "displayTicker": "138530",
+      "name": "TIGER 현대차그룹+펀더멘털",
+      "source": "manual"
+    },
+    {
+      "ticker": "138520",
+      "displayTicker": "138520",
+      "name": "TIGER 삼성그룹펀더멘털",
+      "source": "manual"
+    },
+    {
+      "ticker": "225690",
+      "displayTicker": "225690",
+      "name": "ACE 필리핀MSCI(합성)",
+      "source": "manual"
+    },
+    {
+      "ticker": "219390",
+      "displayTicker": "219390",
+      "name": "ACE 인도네시아MSCI(합성)",
+      "source": "manual"
+    },
+    {
+      "ticker": "446160",
+      "displayTicker": "446160",
+      "name": "ACE 엔비디아채권혼합블룸버그",
+      "source": "manual"
+    },
+    {
+      "ticker": "446140",
+      "displayTicker": "446140",
+      "name": "ACE 미국나스닥100채권혼합액티브",
+      "source": "manual"
+    },
+    {
+      "ticker": "226380",
+      "displayTicker": "226380",
+      "name": "ACE 멕시코MSCI(합성)",
+      "source": "manual"
+    },
+    {
+      "ticker": "441680",
+      "displayTicker": "441680",
+      "name": "ACE 글로벌반도체TOP4 Plus SOLACTIVE",
+      "source": "manual"
+    },
+    {
+      "ticker": "441540",
+      "displayTicker": "441540",
+      "name": "KODEX K-친환경 조선해운액티브",
+      "source": "manual"
     }
-  ]
+  ],
+  "manual_count": 39,
+  "manual_updated_at": "2026-05-13"
 }
