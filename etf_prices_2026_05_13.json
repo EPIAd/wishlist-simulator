@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02",
+  "updated_at": "2026-07-07",
   "description": "1개월 평균 종가 (2026-06-02~2026-07-02, 한국 ETF만, 엑셀 종가 시트 기준)",
   "source_file": "etf_20260702_142909_종가_0000D0_0000H0_0000J0_외.xlsx",
   "prices": [
@@ -3487,7 +3487,8 @@
       "name": "TIGER 미국채10년선물",
       "avg_1m_close_price": 13740.9524,
       "ticker": "305080",
-      "market": "🇰🇷 한국"
+      "market": "KR",
+      "source": "mbti_alias_20260707"
     },
     {
       "name": "TIGER 2차전지테마",
@@ -6878,8 +6879,38 @@
       "avg_1m_close_price": 1001424.2857,
       "ticker": "499660",
       "market": "🇰🇷 한국"
+    },
+    {
+      "name": "KODEX 장기종합채권(AA-이상)",
+      "avg_1m_close_price": 93110,
+      "ticker": "302190",
+      "market": "KR",
+      "source": "mbti_alias_20260707"
+    },
+    {
+      "name": "TIGER 미국테크TOP10",
+      "avg_1m_close_price": 33160.4762,
+      "ticker": "381170",
+      "market": "KR",
+      "source": "mbti_alias_20260707"
+    },
+    {
+      "name": "TIGER 미국달러단기채권",
+      "avg_1m_close_price": 14365.9524,
+      "ticker": "329750",
+      "market": "KR",
+      "source": "mbti_alias_20260707"
+    },
+    {
+      "name": "KODEX 장기종합채권",
+      "avg_1m_close_price": 93110,
+      "ticker": "302190",
+      "market": "KR",
+      "source": "mbti_alias_20260707"
     }
   ],
   "excluded_market": "🇺🇸 미국",
-  "excluded_count": 1339
+  "excluded_count": 1339,
+  "alias_updated_at": "2026-07-07",
+  "alias_count": 5
 }
