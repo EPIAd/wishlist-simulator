@@ -6895,13 +6895,6 @@
       "source": "mbti_alias_20260707"
     },
     {
-      "name": "TIGER 미국달러단기채권",
-      "avg_1m_close_price": 14365.9524,
-      "ticker": "329750",
-      "market": "KR",
-      "source": "mbti_alias_20260707"
-    },
-    {
       "name": "KODEX 장기종합채권",
       "avg_1m_close_price": 93110,
       "ticker": "302190",
@@ -6912,5 +6905,6 @@
   "excluded_market": "🇺🇸 미국",
   "excluded_count": 1339,
   "alias_updated_at": "2026-07-07",
-  "alias_count": 5
+  "alias_count": 5,
+  "alias_removed_at": "2026-07-07"
 }
