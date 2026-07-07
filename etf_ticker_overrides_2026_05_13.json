@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-07-02",
   "source": "Existing overrides merged with Excel 종목정보 sheet, Korean ETFs only",
-  "count": 1190,
+  "count": 1189,
   "excel_kr_count": 1146,
   "previous_count": 575,
   "added_from_excel": 612,
@@ -8821,14 +8821,6 @@
       "source": "mbti_alias_20260707"
     },
     {
-      "name": "TIGER 미국달러단기채권",
-      "ticker": "329750",
-      "displayTicker": "329750",
-      "naverName": "TIGER 미국달러단기채권액티브",
-      "market": "KR",
-      "source": "mbti_alias_20260707"
-    },
-    {
       "name": "KODEX 장기종합채권",
       "ticker": "302190",
       "displayTicker": "302190",
@@ -8838,5 +8830,6 @@
     }
   ],
   "alias_updated_at": "2026-07-07",
-  "alias_count": 5
+  "alias_count": 5,
+  "alias_removed_at": "2026-07-07"
 }
